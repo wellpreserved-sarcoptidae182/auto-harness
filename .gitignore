@@ -12,8 +12,11 @@ workspace/
 # local coding agent config
 .claude/
 
-# local experiment config (copy from experiment_config.yaml.template)
+# local experiment config (created by prepare.py from template)
 experiment_config.yaml
+
+# build/data artifacts
+auto_harness.egg-info/
 
 # tau2 data (auto-cloned by prepare.py, not committed)
 tau2_data/
